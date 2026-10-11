@@ -1,1 +1,0 @@
-# Smart Building Digital Twin Project
