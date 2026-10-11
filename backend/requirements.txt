@@ -1,0 +1,10 @@
+﻿fastapi
+uvicorn
+sqlalchemy
+bcrypt
+pydantic
+scikit-learn
+joblib
+numpy
+twilio
+python-dotenv
